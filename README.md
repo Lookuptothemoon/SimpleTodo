@@ -34,11 +34,14 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
--I had trouble downloading the appropriate software. My computer was giving me issues but eventually worked itself out.
--I had trouble in the design tab. I was trying to finding and resize the elements (specifically, list view) but searched
- online to get the answer.
--It seems the videos are a little out of date, so I had to research new material in order to make my app work correctly.
-For example, instead of calling compile, I was supposed to call implementation in the build.gradle (module) file.
+-I had trouble downloading the appropriate software. 
+ My computer was giving me issues but eventually worked itself out.
+-I had trouble in the design tab. I was trying to finding and resize the elements 
+(specifically, list view) but searched online to get the answer.
+-It seems the videos are a little out of date, so I had to research 
+ new material in order to make my app work correctly.
+ For example, instead of calling compile, I was supposed to call 
+ implementation in the build.gradle (module) file.
 
 ## License
 
